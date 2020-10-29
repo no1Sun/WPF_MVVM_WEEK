@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBasicControlApp1", "WpfBasicControlApp1\WpfBasicControlApp1.csproj", "{9824AEE0-B4A9-434A-926F-2FCE87006A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeShop", "BikeShop\BikeShop.csproj", "{6FAF16EC-A63F-4D95-A61D-CF9FD2182C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9824AEE0-B4A9-434A-926F-2FCE87006A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9824AEE0-B4A9-434A-926F-2FCE87006A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9824AEE0-B4A9-434A-926F-2FCE87006A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9824AEE0-B4A9-434A-926F-2FCE87006A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAF16EC-A63F-4D95-A61D-CF9FD2182C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAF16EC-A63F-4D95-A61D-CF9FD2182C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAF16EC-A63F-4D95-A61D-CF9FD2182C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAF16EC-A63F-4D95-A61D-CF9FD2182C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C987AA4E-C1E7-461D-8C2A-FA96A7411E6F}
+	EndGlobalSection
+EndGlobal
