@@ -9,10 +9,12 @@
       Title="Menu">
 
     <Grid>
-        <Button Content="Products" HorizontalAlignment="Left" Height="75" Margin="100,62,0,0" VerticalAlignment="Top" Width="147"/>
-        <Button Content="Live Support" HorizontalAlignment="Left" Height="75" Margin="272,62,0,0" VerticalAlignment="Top" Width="147"/>
-        <Button Content="Email support" HorizontalAlignment="Left" Height="75" Margin="450,62,0,0" VerticalAlignment="Top" Width="147"/>
+        <Button Content="Products" HorizontalAlignment="Left" Height="75" Margin="100,62,0,0" VerticalAlignment="Top" Width="147" Click="Button_Click_2"/>
+        <Button Content="Live Support" HorizontalAlignment="Left" Height="75" Margin="272,62,0,0" VerticalAlignment="Top" Width="147" Click="Button_Click_1"/>
+        <Button Content="Email support" HorizontalAlignment="Left" Height="75" Margin="450,62,0,0" VerticalAlignment="Top" Width="147" Click="Button_Click"/>
         <TextBlock HorizontalAlignment="Left" Height="55" Margin="143,188,0,0" TextWrapping="Wrap" Text="Adventure Works" VerticalAlignment="Top" Width="252" FontSize="24" FontStyle="Italic"/>
-
+        
     </Grid>
+    
+
 </Page>
