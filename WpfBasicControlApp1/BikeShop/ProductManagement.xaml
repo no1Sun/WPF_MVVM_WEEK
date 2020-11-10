@@ -6,7 +6,9 @@
       xmlns:local="clr-namespace:BikeShop"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="ProductManagement">
+      Title="ProductManagement"
+      Background="{StaticResource background}"
+      >
 
     <Grid>
         <TextBlock HorizontalAlignment="Left" Height="35" Margin="36,19,0,0" TextWrapping="Wrap" Text="Search" VerticalAlignment="Top" Width="40"/>
