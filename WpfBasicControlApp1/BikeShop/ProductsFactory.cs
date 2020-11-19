@@ -22,6 +22,7 @@ namespace BikeShop
         // This code builds an in-memory product collection
         // but we could as well fectch it from a database
         // or web service and it would yield the same result.
+        //
         static IList<Product> products;
         static ProductsFactory()
         {
